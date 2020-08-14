@@ -1,5 +1,3 @@
-# Miscellaneous Product IoT Projects (un-documented)
-
 # Seamless
 [Design Case](https://www.saifkhawaja.com/seamless)
 
