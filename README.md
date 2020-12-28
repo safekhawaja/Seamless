@@ -3,7 +3,7 @@
 
 [Video Demonstration](https://youtu.be/tIBk68pGvAc)
 
-![](https://github.com/safekhawaja/misc_IoT/blob/master/IMG_1288.jpg)
+![](https://github.com/safekhawaja/Seamless/blob/master/IMG_1288.jpg)
 
 Collaborated with Anshul Tripathi and Jordan Semprevivo
 
